@@ -1,0 +1,18 @@
+public class Hello_World {
+        public static void main(String[] args) {
+            int speed = 80 ; // input
+
+
+
+
+           if( speed >60  )
+           {
+               System.out.println( "Overspeeding! Pay Fine ");
+           }
+
+           else
+           {
+               System.out.println("you are within the speed");
+           }
+        }
+}
